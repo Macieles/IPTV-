@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:-1tvg-id="A24.ar"tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true"
 http://104.238.205.28:9090/278750_.m3u8
 
@@ -16,7 +15,7 @@ http://181.78.27.128:12543/play/a05v/index.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-name="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" tvg-id="LaNacionPlus.ar"
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/lntv.playlist.m3u8
+http://104.238.205.28:9090/278769_.m3u8 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://farodigital.org/wp-content/uploads/2022/06/TELEFE-OK.png"
 http://190.95.60.228:8500/play/a031 
@@ -110,9 +109,7 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
  
 #EXTINF:-1 HBO tvg-id="HBO" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO.png"
 http://45.5.117.57:8999/play/a05q/index.m3u8
-
-#EXTINF:-1tvg-id="HBO 2" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_2.png" 
-http://45.5.117.57:8999/play/a05r/index.m3u8
+#EXTINF:-1tvg-id="HBO 2" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_2.png" http://45.5.117.57:8999/play/a05r/index.m3u8
 
 #EXTINF:-1tvg-id="HBO plus" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png"
 http://45.5.117.57:8999/play/a05s/index.m3u8
@@ -122,7 +119,7 @@ http://45.5.117.57:8999/play/a05u/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/5tvqfuvse7dp8rlmsidjbvc3go-28a535a6a82ac8493638431c93a7b0f2.png"
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/5tvqfuvse7dp8rlmsidjbvc3go-28a535a6a82ac8493638431c93a7b0f2.png" 
 http://45.5.117.57:8999/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png"
@@ -134,8 +131,7 @@ http://189.50.210.3:8008/play/a034
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305"
 http://live.btv.mx:2424/stream/278505/smAVz_uhytj5REM-4pYNZbkrcB2
  
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://iconape.com/wp-content/files/nn/21306/png/axn-logo.png" 
-http://45.5.117.57:8999/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://iconape.com/wp-content/files/nn/21306/png/axn-logo.png" http://45.5.117.57:8999/play/a04d/index.m3u8
 
 #EXTINF:-1tvg-id="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/TNT_2016_%28Red%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121007"
 http://45.5.117.57:8999/play/a03c/index.m3u8
@@ -146,7 +142,7 @@ http://45.5.117.57:8999/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true"
 http://181.78.7.90:12500/play/a0f4/index.m3u8
 
-#EXTINF:-1tvg-id="Universal cinema" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema Claro.png.a88ebacac50bab493289c33a1afef121.png" 
+#EXTINF:-1tvg-id="Universal cinema" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" 
 http://45.5.117.57:8999/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://universalplus.com/files/channels/172050409.png"
@@ -159,7 +155,7 @@ http://45.5.117.57:8999/play/a03i/index.m3u8
 http://45.5.117.57:8999/play/a03l
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png"
-http://181.13.252.102:8000/play/a02x/index.m3u8 
+http://181.13.252.102:8000/play/a02x/index.m3u8
 
 #EXTINF:-1tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true" 
 http://190.95.60.228:8500/play/a017  
@@ -192,20 +188,20 @@ http://181.13.252.102:8000/play/a02z/index.m3u8
 #EXTINF:-1tvg-id="Animal Planet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/01-AnimalPlanet.png?raw=true"
 http://179.1.148.246:8888/play/a0f6/index.m3u8
  
-#EXTINF:-1tvg-id="History Channel" tvg-logo="https://i.imgur.com/P5aKEES.png"
+#EXTINF:-1 History Channel
 http://181.13.252.102:8000/play/a05h/index.m3u8 
 
-#EXTINF:-1tvg-id="Adult swim" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" 
-http://190.95.60.228:8500/play/a03m
+#EXTINF:-1 Adult swim http://190.95.60.228:8500/play/a03m
  
-#EXTINF:-1 tvg-id=”CARTOON NETWORK”
+#EXTINF:-1 CARTOON NETWORK
 http://45.5.117.57:8999/play/a05p/index.m3u8
 
-#EXTINF:-1 tvg-id=”CANAL DE LAS ESTRELLAS”
+#EXTINF:-1 CANAL DE LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8 
 
-#EXTINF:-1 tvg-id=”TELENOVELAS” 
+#EXTINF:-1 TELENOVELAS
 http://45.228.234.30:16000/play/a031/index.m3u8
+
 
 
 
